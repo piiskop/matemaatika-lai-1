@@ -1,0 +1,31 @@
+[]{#sessions}
+
+# I kursuse sisu
+
+## Avaldised ja arvuhulgad
+
+### Õpitulemused
+
+\multicolsbegin
+
+Kursuse lõpus õpilane:
+
+1. leiab hulkade ühendi, ühisosa ja antud hulga osahulga;
+2. selgitab naturaalarvude hulga N, täisarvude hulga Z, ratsionaalarvude hulga Q,
+irratsionaalarvude hulga I ja reaalarvude hulga R omadusi ja nende hulkade kuuluvusseoseid,
+märgib arvteljel reaalarvude piirkondi;
+3. esitab arvu juure ratsionaalarvulise astendajaga astmena ja vastupidi;
+4. sooritab tehteid astmete ning võrdsete juurijatega juurtega;
+5. teisendab lihtsamaid ratsionaal- ja irratsionaalavaldisi (kaks tehet ja sulud);
+6. näeb ja lahendab arvutuste ja teisenduste abil lahenduvaid reaalelulisi ja teaduslikke
+probleeme (sh protsentülesanded). Tõlgendab ja esitleb saadud tulemusi.[@gmnaasiumi].
+
+\multicolsend
+
+## Kalender
+
+### 2024-9-12
+
+Tegurdasime.
+
+Osalesid milena ja anna.
