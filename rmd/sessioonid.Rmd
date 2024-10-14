@@ -67,3 +67,17 @@ Tegime arvutusi 82-83.
 Harjutasime juure teisendamist astendajaks ja vastupidi. Kombineerisime. Osa harjutusi jäid koju lahendada.
 
 Osalesid anja, jaroslav, virko ja nickita.
+
+### 2024-10-10
+
+Andsin ChatGPT'le järgmised käsud ja siis me lahendasime kõik komplektid, välja arvatud viimase ülesande, aga seda tüüpi ülesannet olime juba lahendanud ka:
+
+Koosta 16 ülesannet õppimaks, harjutamaks ja enesekontrolliks järgmise õpiväljundi suhtes: selgitab naturaalarvude hulga N, täisarvude hulga Z, ratsionaalarvude hulga Q,
+irratsionaalarvude hulga I ja reaalarvude hulga R omadusi 
+
+Koosta 16 ülesannet õppimaks, harjutamaks ja enesekontrolliks järgmise õpiväljundi suhtes: selgitab naturaalarvude hulga N, täisarvude hulga Z, ratsionaalarvude hulga Q,
+irratsionaalarvude hulga I ja reaalarvude hulga R kuuluvusseoseid
+
+Koosta 16 ülesannet õppimaks, harjutamaks ja enesekontrolliks järgmise õpiväljundi suhtes: esitab arvu juure ratsionaalarvulise astendajaga astmena ja vastupidi;
+
+Kõik neli õppesessiooni olid. Esimeses kahes osales ainult Virko. Kolmandasse liitus Anna Saffran ja viimasesse tuli ka Jaroslav. Sellest sessioonist oluline osa kulutati joonistamiseks.
