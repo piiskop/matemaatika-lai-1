@@ -169,21 +169,21 @@ Kolmandas õppesessioonis jõudsime nii kaugele, et tihenditega läbikorrutamise
 
 Neljandasse õppesessiooni tuli ka jaroslav, kes võttis virkolt üle ja me jõudsime ainult kõik üksliikmed läbi korrutada. virko mängis mingit telomängu.
 
-# 2024-12-19
+### 2024-12-19
 
 Üldse õpilasi polnud.
 
-# 2025-1-9
+### 2025-1-9
 
 Essas kedagi pold.
 
 Teisest alates oli virko ja asus tegema sooritamise testi. Aitan teda sammhaaval mõne ülesande puhul. Tal oli nt meelest läinud, kuidas liita harilikke osamäärasid. Tegime kõik ülejäänud sessioonid. Mida rohkem tegime, ta väsis ja ei suutnud enam sama tüüpi ülesandeid lahendada.
 
-# 2025-1-16
+### 2025-1-16
 
 Mitte keegi ei osalenud.
 
-# 2025-1-23
+### 2025-1-23
 
 Esimeses sessioonis Virko lõpetas testi *Tehete sooritamine võrdsete juurijatega juurtega* ja arvestasin selle arvestatuks.
 
@@ -193,7 +193,7 @@ Kolmandas sessioonis tegime reaaleluliste probleemide testi lõpuni ja arvestasi
 
 Neljandas sessioonis alustas Virko testiga arvuhulkade omaduste kohta ja jõudsime üheksa ülesannet lahendatud.
 
-# 2025-2-13
+### 2025-2-13
 
 Esimeses polnud kedagi.
 
@@ -202,3 +202,12 @@ Teise tuli jaroslav. Asus sooritama testi teemal "sooritab tehteid astmete ning 
 Kolmandasse liitus mykyta ning panin nad mõlemad koos tegema. Jõudsime lahendada kaheksanda ülesandeni.
 
 Neljandas jätkasime testisooritust. Lõpuni. Mõlemale: sooritatud. mykyta alustas protsentülesannete testi sooritamist, jaroslav jätkas eelmise testi ülelahendamist. mykyta läbis protsentülesannete testi: sooritatud.
+
+### 2025-2-20
+
+Teise sessiooni liitus virko. Asus tegema arvuhulkade kuuluvusseoste testi. Peagi liitus mykyta, kes asus arvuhulkade omaduste testi tegema. Mõlemad sooritasid lõpuni - "A".
+
+Kolmandas käisime preemiaks loopimas korvpalli. mykyta vigastas jalga. Ei, ta nimi on Nickita.
+
+Neljandas sooritas mykyta veel protsentülesannete testi lõpuni - "A". mykytaga lahendasime õpiväljundi "selgitab võrduse, samasuse ja võrrandi, võrrandi lahendi, võrrandi- ja võrratusesüsteemi
+lahendi ning lahendihulga mõistet" ChatGPT' ülesanded.
