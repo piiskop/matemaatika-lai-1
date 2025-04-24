@@ -222,3 +222,45 @@ Kolmandasse liitus mykyta ja talle andsin gümnaasiumi riigieksamiks valmistumis
 
 Neljandas sessioonis nickita jätkas ja jaroslav alustas uuesti arvuhulkade omaduste testi sooritamist.
 Selgitasin nickitale veel, kui polnud tegemist lihtsalt ruutjuurega. Sai teha keerulise arvu lihtsamaks. jaroslav jõudis 13 küsimust vastata.
+
+### 2025-3-13
+
+Esimeses vist polnud kedagi.
+
+Teise tulid nickita ja virko. Asusime gümnaadiumi riigieksamiks valmistumise kogumikust lahendama absoluutväärtusi sisaldavaid võrrandeid.
+
+Kolmandas sessioonis jätkasime ja neljandas ka, aga enne lõppu läksime piljardit mängima.
+
+### 2025-3-20
+
+Esimeses polnud kedagi.
+
+Teises oli nickita. Jätkas absoluutväärtusi sisaldavate võrrandite lahendamist.
+
+Kolmandas jätkasime. Juba oli mängus kaks absoluutväärtust ja komplekslahendeid.
+
+Neljandas jätkasime ja topeltabsoluutväärtuse puhul tekkis tõrge. Leidsin lahenduse ja järgmine kord demonstreerin seda.
+
+### 2025-3-27
+
+Esimeses polnud kedagi.
+
+Teises oli virko. Andsin talle arvuhulkade omaduste testi sooritada. Tulemus: "A".
+
+Kolmandas käisime piljardit mängimas ja võitsin. Alustasime absoluutväärtusi sisaldavate võrrandite lahendamist esimesest tärniga ülesandest teise versioonina gümnaasiumilõpetajate eestikeelsest kogumikust. Tegin esimese ette. Järgmise lahendas iseseisvalt. Õppisime ka kalkulaatorit kasutama: absoluutväärtus, et ruudust ruutjuur võtta, ja negatiivne arv.
+
+Neljandas jätkasime võrranditega.
+
+### 2025-4-3
+
+Alles neljandasse tuli nickita ja asusime parameetreid sisaldavate ruutvõrrandite lahendamisse.
+
+### 2025-4-24
+
+Esimeses sessioonis polnud mitte keegi.
+
+Teise sessiooni liitus virko, kes ütles, et asub õppima, kui on nutitelefoniga ära asjatanud ja endale kohvi toonud. Ta ei jõudnudki kohvitoomiseni.
+
+Kolmandas sessioonis asusime õppima teemal "Võrrandid ja võrratused".
+
+Neljandas sessioonis asusime õppima teemal "Samasusteisendused võrrandite lahendamisel".
